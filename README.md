@@ -1,3 +1,3 @@
 # ragnarok-wiki-android
 
-Random personal project about a Ragnarok Online Wiki Application
+API for Ragnarok Online Wiki Application
